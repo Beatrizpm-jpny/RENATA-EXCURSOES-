@@ -1,0 +1,25 @@
+body {
+    color: rgb(250, 3, 3);
+    background: rgb(252, 252, 252);
+    margin: 30px;
+}
+
+
+header {
+    border-bottom: solid 2px rgb(184, 34, 34);
+    padding: 30px;
+    font-size: 20px;
+    color: rgb(156, 84, 84);
+}
+
+header2{ 
+    border-bottom: black 2px black (0, 0, 0) ;
+    font-style: italic;
+    color: black;
+
+}
+Header3{
+    border-bottom: rgb(94, 21, 21); 
+    font-style: initial;
+    color: darkred;
+}
